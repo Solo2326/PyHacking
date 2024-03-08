@@ -1,0 +1,34 @@
+Introduzione
+
+Questo script Python si connette alla rete Tor e analizza i form presenti sulla homepage di Google.
+
+Istruzioni per l'uso
+
+    Installa le librerie richieste:
+
+    pip install -r richiesta.txt
+
+    Esegui il codice:
+
+    python codice.py
+
+Disclaimer
+
+1. Limitazioni:
+
+    Questo script è stato sviluppato a scopo didattico e non è garantito che funzioni correttamente in tutti i contesti.
+    L'accesso a siti web illegali o dannosi tramite Tor è sconsigliato e potrebbe avere conseguenze legali.
+
+2. Sicurezza:
+
+    L'utilizzo di Tor non garantisce l'anonimato completo. È importante essere consapevoli dei rischi e delle limitazioni della rete Tor.
+    Si consiglia di utilizzare una VPN o altre misure di sicurezza per proteggere la propria privacy.
+
+3. Responsabilità:
+
+    L'autore non è responsabile per eventuali danni o malfunzionamenti causati dall'utilizzo di questo script.
+    L'utente è consapevole dei rischi e delle responsabilità connessi all'utilizzo di Tor e di questo script.
+
+4. Licenza:
+
+Questo script è distribuito sotto la licenza MIT.
