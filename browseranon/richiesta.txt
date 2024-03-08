@@ -1,0 +1,3 @@
+socks
+mechanize
+urllib2
