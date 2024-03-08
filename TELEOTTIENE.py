@@ -4,7 +4,7 @@ import pprint
 import argparse
 import multiprocessing
 import mimetypes
-from aiutanti.TeleTesto import manda_mesaggio # Assumiamo che queste funzioni esistano
+from aiutanti.TeleTesto import manda_mesaggio 
 from aiutanti.TeleVedi import processa_messaggio  
 
 def formatta_dizionario(titolo, dizionario):
